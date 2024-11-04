@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exoheubi.github.io/IVS/sitemap_index.txt
+Sitemap: https://exoheubi.github.io/SYO/sitemap_index.txt
+Sitemap: https://exoheubi.github.io/hRY/sitemap_index.txt
+Sitemap: https://exoheubi.github.io/vXf/sitemap_index.txt
